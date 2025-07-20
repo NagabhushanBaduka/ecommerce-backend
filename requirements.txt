@@ -2,3 +2,4 @@
  motor
  uvicorn
  pydantic
+ python-dotenv
